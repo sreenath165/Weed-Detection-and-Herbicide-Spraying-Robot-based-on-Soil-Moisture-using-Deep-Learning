@@ -1,1 +1,0 @@
-# Weed-Detection-Robot-using-YOLO
